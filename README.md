@@ -6,5 +6,5 @@ A simple Telegram bot to remove forward tag from forwarded messages, also works 
 # Deploy to Heroku:
 <p align="left"><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-![Static Badge](https://img.shields.io/badge/Flutter_-blue?style=for-the-badge&logo=flutter)[https://flutter.dev/]
+![Static Badge](https://img.shields.io/badge/Flutter_-blue?style=for-the-badge&logo=flutter-url-https://flutter.dev/]
 
